@@ -1,0 +1,12 @@
+.nav a{
+	color: white;
+	font-size: 18px;
+}
+.nav a:hover{
+  color: #777777;
+}
+
+.navbar-brand img {
+  padding-left: 25px;
+  max-width: 75px;
+}

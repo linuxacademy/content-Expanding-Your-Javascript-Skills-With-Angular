@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
+
+.image-padding-top, .text-padding-top {
+  padding-top: 75px;
+}
+
+.fa {
+  padding-right: 15px;
+}

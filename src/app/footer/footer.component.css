@@ -1,0 +1,20 @@
+
+footer {
+  padding-top: 20px;
+}
+
+footer p {
+  color: #FFFFFF;
+  font-size: 24px;
+}
+
+.sticky-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+footer > .container-fluid {
+	min-height: 40px;
+	min-width: 100%;
+}
